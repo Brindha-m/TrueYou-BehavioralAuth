@@ -1,6 +1,8 @@
 <img src="https://github.com/user-attachments/assets/1853f0e0-9631-4b6f-8358-6c94bf166e2f" width=350/>
 
-# Advanced Behavioral Authentication Engine
+> ## Advanced Behavioral Authentication Engine
+
+### SuRaksha Cyber Hackathon | Canara Bank - Team Bindas Code
 
 ## Project Overview
 The True You will be a cutting-edge security solution that leverages AI and behavioral biometrics to provide continuous and intrusive authentication. This system analyzes over 50 behavioral parameters. Each parameter captures a unique aspect of user behavior, creating a comprehensive 'behavioral DNA' that's nearly impossible to replicate.
