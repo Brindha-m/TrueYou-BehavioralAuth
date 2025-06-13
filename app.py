@@ -16,7 +16,6 @@ import hashlib
 import warnings
 warnings.filterwarnings('ignore')
 
-# --- Page Configuration --- 
 st.set_page_config(
         page_title="True You - Behavioral Authentication Engine",
         page_icon="🔒",
@@ -29,7 +28,7 @@ USER_TYPE_COLORS = {
     'elderly': '#FFD166',
     'disabled': '#B388FF',
     'frequent_traveler': '#45B7D1',
-    'fraudulent': '#B22222',  # Firebrick
+    'fraudulent': '#B22222', 
     'stressed_user': '#FF6B6B',
     'tech_expert': '#FFEEAD'
 }
@@ -58,7 +57,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# === COMPREHENSIVE BEHAVIORAL PARAMETERS (50+) ===
+# === BEHAVIORAL PARAMETERS (50+) ===
 BEHAVIORAL_FEATURES = {
     # Typing Dynamics (10 features)
     'typing_speed_wpm': 'Words per minute typing speed',
