@@ -5,7 +5,7 @@
 ### SuRaksha Cyber Hackathon | Canara Bank - Team Bindas Code
 
 ## Project Overview
-The True You will be a cutting-edge security solution that leverages AI and behavioral biometrics to provide continuous and intrusive authentication. This system analyzes over 50 behavioral parameters. Each parameter captures a unique aspect of user behavior, creating a comprehensive 'behavioral DNA' that's nearly impossible to replicate.
+True You will be a cutting-edge security solution that leverages AI and behavioral biometrics to provide continuous and intrusive authentication. This system analyzes over 50 behavioral parameters. Each parameter captures a unique aspect of user behavior, creating a comprehensive 'behavioral DNA' that's nearly impossible to replicate.
 
 ## Key Features
 
