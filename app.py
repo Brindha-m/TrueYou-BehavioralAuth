@@ -23,13 +23,7 @@ st.set_page_config(
         page_icon="🔒",
         layout="wide"
     )
-
-if st.button("Check models dir"):
-    st.write("Current working dir:", os.getcwd())
-    st.write("models/ exists:", os.path.exists("models"))
-    if os.path.exists("models"):
-        st.write("Files in models/:", os.listdir("models"))
-            
+          
 USER_TYPE_COLORS = {
     'normal_young': '#4ECDC4',
     'normal_middle': '#96CEB4',
