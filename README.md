@@ -18,14 +18,12 @@
 
 - **Contextual Analysis**: Considers temporal patterns, location stability, and environmental factors
 - **Cognitive Metrics**: Monitors stress levels, attention focus, and emotional state patterns
-
-### 2. AI-Powered Security
 - **Isolation Forest**: Detects anomalies in user behavior
 - **LSTM Networks**: Analyzes sequential patterns and temporal dependencies
 - **Fusion Model**: Combines multiple AI models for enhanced accuracy
 - **Real-time Risk Assessment**: Provides continuous security monitoring
 
-### 3. User-Centric Design
+### 2. User-Centric Design
 - **Adaptive Profiles**: Supports different user types (normal young, normal middle, elderly, disabled, fraudulent, frequent traveler, stressed user and tech expert)
   <img width="848" alt="{436CA847-A3C0-4896-BADF-C00768C136CC}" src="https://github.com/user-attachments/assets/a2574972-8057-4870-b07d-cf31cec90ea1" />
 
